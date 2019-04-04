@@ -2,7 +2,9 @@
 (media query 是不能改变的，如：@media (max-width:640px))
 
 ## px2rem
-[![npm version](https://badge.fury.io/js/webpack-px2rem-loader.svg)](https://badge.fury.io/js/webpack-px2rem-loader)
+![npm](https://img.shields.io/npm/v/webpack-px2rem-loader.svg)
+![NPM](https://img.shields.io/npm/l/webpack-px2rem-loader.svg)
+![npm](https://img.shields.io/npm/dt/webpack-px2rem-loader.svg)
 
 开发响应式网页，尤其是手机端，常常采取rem单位。这个webpack的小loader主要是省去了每次输入长、宽、字体等都要把像素px换算成rem的麻烦，
 开发时直接输入px,最后打包打包时换算为rem。
