@@ -42,7 +42,7 @@
   "license": "MIT",
   "main": "index.js",
   "name": "webpack-px2rem-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/LiangWei88/webpack-px2rem-loader.git"
