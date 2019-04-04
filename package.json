@@ -1,0 +1,46 @@
+{
+  "_from": "webpack-px2rem-loader",
+  "_id": "webpack-px2rem-loader@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-0dXLVeTiZh++gCqNIWuKcGPzr6w=",
+  "_location": "/webpack-px2rem-loader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "webpack-px2rem-loader",
+    "name": "webpack-px2rem-loader",
+    "escapedName": "webpack-px2rem-loader",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/webpack-px2rem-loader/-/webpack-px2rem-loader-0.0.4.tgz",
+  "_shasum": "d1d5cb55e4e2661fbe802a8d216b8a7063f3afac",
+  "_spec": "webpack-px2rem-loader",
+  "_where": "/Users/apple/Desktop/WorkOfWeiWei/program/opensource/webpack-px2rem-loader",
+  "author": {
+    "name": "LiangWei"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "loader-utils": "^0.2.11",
+    "lodash": "^4.17.11"
+  },
+  "deprecated": false,
+  "description": "change px unit in css to rem, copy and fix media query bug from plugin of CallMeXYZ",
+  "keywords": [
+    "webpack",
+    "px",
+    "rem",
+    "css"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "webpack-px2rem-loader",
+  "version": "1.0.1"
+}
