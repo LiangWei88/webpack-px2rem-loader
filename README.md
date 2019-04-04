@@ -1,5 +1,4 @@
-复制了 CallMeXYZ 的插件，
-修复了包含 media query 的 bug
+复制了 CallMeXYZ 的插件，修复了包含 media query 的 bug  
 (media query 是不能改变的，如：@media (max-width:640px))
 
 ## px2rem
